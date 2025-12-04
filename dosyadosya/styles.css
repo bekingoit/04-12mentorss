@@ -1,0 +1,41 @@
+body {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.web {
+  color: #4d5ae5;
+}
+
+.nav-link {
+    color:#2E2F42;
+}
+
+address a {
+    color: #2E2F42;
+}
+
+.studio {
+  color: #2e2f42;
+}
+
+.logo {
+  font-size: 18px;
+  line-height: 1.1666;
+  letter-spacing: 0.03em;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    color: #FFFFFF;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
